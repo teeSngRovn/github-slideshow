@@ -2,6 +2,7 @@
 layout:slide
 title:"welcome to our second slide!"
 ---
-I'm teeSngRovn!Hi there.
+Greater Power come with Greater responsibility.
+
 Use the left arrow to go back!
 Go up!
